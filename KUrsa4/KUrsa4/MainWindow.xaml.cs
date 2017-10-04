@@ -23,6 +23,7 @@ namespace KUrsa4
         public MainWindow()
         {
             InitializeComponent();
+			//test
         }
     }
 }
