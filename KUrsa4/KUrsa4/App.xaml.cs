@@ -13,6 +13,6 @@ namespace KUrsa4
     /// </summary>
     public partial class App : Application
     {
-        Console.Write();    
+        Console.Write();  // new commit
     }
 }
